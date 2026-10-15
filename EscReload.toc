@@ -1,0 +1,10 @@
+## Interface: 120105, 50504, 20506
+## Title: EscReload
+## Title-ptBR: EscReload
+## Notes: Adds a "Reload UI" button to the game menu (ESC), right above Log Out.
+## Notes-ptBR: Adiciona um botão "Recarregar UI" no menu do jogo (ESC), logo acima de Desconectar.
+## Author: Pedro Craveiro
+## IconTexture: Interface\Icons\Ability_seal
+## Version: 1.0.0
+
+EscReload.lua
